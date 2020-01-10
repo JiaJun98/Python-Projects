@@ -8,7 +8,7 @@ Developed a project "Study of carbon emissions of different types of vehicle pop
 
 # Data Cleaning  
 
-In data cleaning, there is removal of mislabeled categories (different spelling, wrong word use). 
+In data cleaning, there is removal of mislabeled categories (different spelling, wrong word use) and followed by grouping of general vehicles types (i.e buses, car & station-wagons,…) based on carbon emissions produced by year. 
 
 Uncleaned data for label "car_type"
 ![mislabeled categories](https://github.com/JiaJun98/Python-Projects/blob/master/Data_Cleaning_car_type1.PNG)
@@ -21,8 +21,14 @@ Cleaned data for label "car_type2"
 
 
 
+This grouping concluded that there is a general increase of carbon emissions of all vehicles from about 760000 arbitrary units (a.u) to about 960000 arbitrary units (a.u) in 2017. 
+![general increase](https://github.com/JiaJun98/Python-Projects/blob/master/Total_Carbon_Emissions_of_all_Vehicles_from_2005_to_2017(Line).PNG)
 
-This is followed by grouping of general vehicles types (i.e buses, car & station-wagons,…) based on carbon emissions produced by year. This grouping concluded that there is a general increase of carbon emissions of all vehicles from about 760000 arbitrary units (a.u) to about 960000 arbitrary units (a.u) in 2017. The second grouping was grouping specific vehicle type (i.e school buses, tuition cars, private cars,…)based on carbon emissions produced by year. based on size of bar charts from matplotlib library, “Cars & station-wagons” contributed the most in terms of percentage compared to the rest of the general vehicle types. However, the the bar charts were limited in showing the individual percentage of the specific vehicle types, further data manipulation and visualization is required.
+The second grouping was grouping specific vehicle type (i.e school buses, tuition cars, private cars,…)based on carbon emissions produced by year. 
+Inspecting the size of bar charts from matplotlib library, “Cars & station-wagons” contributed the most in terms of percentage compared to the rest of the general vehicle types(as seen from the orange region stacked bar-chart at the last row)
+![car_type increase](https://github.com/JiaJun98/Python-Projects/blob/master/Carbon_Emissions_of_car_types_(2005-2017).png)
+
+However, the the bar charts were limited in showing the individual percentage of the specific vehicle types, further data manipulation and visualization is required.
 
 # Data Visualisation
 
