@@ -41,8 +41,6 @@ The line graphs concluded that “Private cars” have a significant greater num
 Whereas for the bus types, “School buses” have a significantly lower number of carbon emissions.
 ![car_type increase](https://github.com/JiaJun98/Python-Projects/blob/master/Carbon%20Emissions%20of%20Buses%20from%202005%20to%202017%2Ca.u.png)
 
-
-
 Upon further analysis of year-on-year percentage change of carbon emissions for general vehicle types (i.e buses, car & station-wagons,…). 
 
 ![year_on_year increase](https://github.com/JiaJun98/Python-Projects/blob/master/Year-on-Year%20Percentage%20Change%20each%20type%20of%20Vehicles.png)
