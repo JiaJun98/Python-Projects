@@ -25,6 +25,7 @@ This grouping concluded that there is a general increase of carbon emissions of 
 ![general increase](https://github.com/JiaJun98/Python-Projects/blob/master/Total_Carbon_Emissions_of_all_Vehicles_from_2005_to_2017(Line).PNG)
 
 The second grouping was grouping specific vehicle type (i.e school buses, tuition cars, private cars,…)based on carbon emissions produced by year. 
+
 Inspecting the size of bar charts from matplotlib library, “Cars & station-wagons” contributed the most in terms of percentage compared to the rest of the general vehicle types(as seen from the orange region stacked bar-chart at the last row)
 ![car_type increase](https://github.com/JiaJun98/Python-Projects/blob/master/Carbon_Emissions_of_car_types_(2005-2017).png)
 
@@ -34,8 +35,19 @@ However, the the bar charts were limited in showing the individual percentage of
 
 Using data visualization techniques from Matplotlib library, line graphs were used to compare the magnitude of carbon emissions of specific vehicle types (i.e excursion buses, omnibuses, private buses) across specific vehicle types (i.e buses).
 
-The line graphs concluded that “Private cars” have a significant greater number of carbon emissions compared to the rest of the car types and that “School buses” have a significantly lower number of carbon emissions compared to the rest of the bus types.Upon further analysis of year-on-year percentage change of carbon emissions for general vehicle types (i.e buses, car & station-wagons,…). Insights gathered showed that the greatest increase in year-on-year percentage change of carbon emissions is “Tax exempted vehicles". 
-whereas, the lowest year-on-year percentage change of carbon emissions is "Taxi" as the percentage change is mostly in negative region. 
+The line graphs concluded that “Private cars” have a significant greater number of carbon emissions compared to the rest of the car types 
+![car_type increase](https://github.com/JiaJun98/Python-Projects/blob/master/Carbon%20Emissions%20of%20Cars%20from%202005%20to%202017%2Ca.u.png)
+
+Whereas for the bus types, “School buses” have a significantly lower number of carbon emissions.
+![car_type increase](https://github.com/JiaJun98/Python-Projects/blob/master/Carbon%20Emissions%20of%20Buses%20from%202005%20to%202017%2Ca.u.png)
+
+
+
+Upon further analysis of year-on-year percentage change of carbon emissions for general vehicle types (i.e buses, car & station-wagons,…). 
+
+![year_on_year increase](https://github.com/JiaJun98/Python-Projects/blob/master/Year-on-Year%20Percentage%20Change%20each%20type%20of%20Vehicles.png)
+
+Insights gathered showed that the greatest increase in year-on-year percentage change of carbon emissions is “Tax exempted vehicles". Whereas, the lowest year-on-year percentage change of carbon emissions is "Taxi" as the percentage change is mostly in negative region. 
 
 This shows that from 2005 to 2017, the carbon emissions of taxi's are generally decreasing.This shows that from 2005 to 2017, the carbon emissions of taxi's are generally decreasing.
 
