@@ -45,9 +45,9 @@ Upon further analysis of year-on-year percentage change of carbon emissions for 
 
 ![year_on_year increase](https://github.com/JiaJun98/Python-Projects/blob/master/Year-on-Year%20Percentage%20Change%20each%20type%20of%20Vehicles.png)
 
-Insights gathered showed that the greatest increase in year-on-year percentage change of carbon emissions is “Tax exempted vehicles". Whereas, the lowest year-on-year percentage change of carbon emissions is "Taxi" as the percentage change is mostly in negative region. 
+Insights gathered showed that the greatest increase in year-on-year percentage change of carbon emissions is “Tax exempted vehicles"(represented by the yellow line graph).
 
-This shows that from 2005 to 2017, the carbon emissions of taxi's are generally decreasing.This shows that from 2005 to 2017, the carbon emissions of taxi's are generally decreasing.
+Whereas, the lowest year-on-year percentage change of carbon emissions is "Taxi" as the percentage change is mostly in negative region(represented by the purple line graph). This shows that from 2005 to 2017, the carbon emissions of taxi's are generally decreasing.
 
 # Conclusion
 
