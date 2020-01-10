@@ -35,7 +35,8 @@ However, the the bar charts were limited in showing the individual percentage of
 
 Using data visualization techniques from Matplotlib library, line graphs were used to compare the magnitude of carbon emissions of specific vehicle types (i.e excursion buses, omnibuses, private buses) across specific vehicle types (i.e buses).
 
-The line graphs showed that “Private cars” have a significant greater number of carbon emissions compared to the rest of the car types. 
+The graph shows that for car types, “Private cars” have a significant greater number of carbon emissions.
+
 ![car_type increase](https://github.com/JiaJun98/Python-Projects/blob/master/Carbon%20Emissions%20of%20Cars%20from%202005%20to%202017%2Ca.u.png)
 
 Whereas for the bus types, “School buses” have a significantly lower number of carbon emissions.
