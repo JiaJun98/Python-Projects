@@ -1,13 +1,14 @@
 # Python-Projects
 List of python projects that I have explored or collabrated with others
 
-#DS102.py
+# DS102.py
 
 # Summary
 Developed a project "Study of carbon emissions of different types of vehicle population from 2005 to 2014 in Singapore" analyzing data gathered from csv excel file from Kaggle depicting the carbon emissions for different vehicles in Singapore. employed data cleaning skills using Pandas library and data visualization tools from matplotlib library.
 
-# Data Cleaning ![Image description]
-In data cleaning, there is removal of mislabeled categories (different spelling, wrong word use), followed by grouping of general vehicles types (i.e buses, car & station-wagons,…) based on carbon emissions produced by year. This grouping concluded that there is a general increase of carbon emissions of all vehicles from about 760000 arbitrary units (a.u) to about 960000 arbitrary units (a.u) in 2017. The second grouping was grouping specific vehicle type (i.e school buses, tuition cars, private cars,…)based on carbon emissions produced by year. based on size of bar charts from matplotlib library, “Cars & station-wagons” contributed the most in terms of percentage compared to the rest of the general vehicle types. However, the the bar charts were limited in showing the individual percentage of the specific vehicle types, further data manipulation and visualization is required.
+# Data Cleaning  
+
+In data cleaning, there is removal of ![mislabeled categories](https://github.com/JiaJun98/Python-Projects/blob/master/Data_Cleaning_car_type1.PNG) (different spelling, wrong word use), followed by grouping of general vehicles types (i.e buses, car & station-wagons,…) based on carbon emissions produced by year. This grouping concluded that there is a general increase of carbon emissions of all vehicles from about 760000 arbitrary units (a.u) to about 960000 arbitrary units (a.u) in 2017. The second grouping was grouping specific vehicle type (i.e school buses, tuition cars, private cars,…)based on carbon emissions produced by year. based on size of bar charts from matplotlib library, “Cars & station-wagons” contributed the most in terms of percentage compared to the rest of the general vehicle types. However, the the bar charts were limited in showing the individual percentage of the specific vehicle types, further data manipulation and visualization is required.
 
 # Data Visualisation
 
